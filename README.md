@@ -20,4 +20,4 @@ fork this repository and then issue pull requests for review.
 
 ### copyright
 
-2018 git.training
+2018 git.training all rights reserved
