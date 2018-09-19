@@ -18,6 +18,8 @@ this is a simple web project, deployment can be on any web server or even local 
 
 ## how to contribute
 
+fork this repository and then issue pull requests for review.
+
 ### copyright
 
 2018 git.training
