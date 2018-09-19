@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anh Truong	anh@edatasource.com	@anhtruong
 
 # THANKS
 
